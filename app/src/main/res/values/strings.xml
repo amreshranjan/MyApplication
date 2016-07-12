@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDressKode</string>
+    <string name="action_settings">Settings</string>
+    <string-array
+        name="string_array_name">
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+        <item>Test4</item>
+        <item>Test5</item>
+    </string-array>
+</resources>
